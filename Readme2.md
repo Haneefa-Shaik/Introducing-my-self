@@ -2,7 +2,11 @@
 ### Welcome to my GITHUB profile. 
 ### I am Haneefa Shaik 
 
-<img src="./my-image.jpg" />
+<!--
+<img src="Haneefa-photo.jpg" />
+-->
+
+![alt Haneefa](Haneefa-photo.jpg)
 
 # My Values 
 - *Beginner's Mindset and curiosity*
