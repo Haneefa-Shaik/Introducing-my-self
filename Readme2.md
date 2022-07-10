@@ -32,3 +32,5 @@
 - 🤔 I’m looking for help on Java
 - 💬 I am happy and self motivated 
 - 📫 How to reach me: haneefa506@gmail.com
+
+[![Haneefa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haneefa-Shaik)](https://github.com/Haneefa-Shaik/github-readme-stats)
